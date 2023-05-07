@@ -1,3 +1,5 @@
+Personal advice: Do not read this note. It is pure garbage.
+
 # Paper 1
 
 ## Chapter 1: 
