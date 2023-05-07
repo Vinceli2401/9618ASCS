@@ -12,7 +12,7 @@ Sampling rate is in seconds!
 
 Router & Gateway & Repeater & Hub & Switch
 
-WNIC, ethernet, WAPs
+WNIC, ethernet, WAPs (spread spectrum, infrared)
 
 **CSMA/CD**
 
